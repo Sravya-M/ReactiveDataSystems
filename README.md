@@ -42,5 +42,8 @@ Run the project following below commands
 	give ID and password
 	Database name is 'reactive'
   
-  
+## Software Testing
+
+### Go to path /src/main/java/com/iiitb/dm/test/
+	Worked on Symbolic Execution Testing which tries to test the path coverage in the source code, focusing on paths taken by decision statements, looping constructs.
  Change if required..
